@@ -1,9 +1,9 @@
 [
   {
-    "name": "Chatwoot",
-    "url": "https://app.chatwoot.com/api",
-    "icon": "https://raw.githubusercontent.com/chatwoot/status/master/assets/favicon.ico",
-    "slug": "chatwoot",
+    "name": "Wasapi",
+    "url": "https://dash.wasapi.com.br/api",
+    "icon": "https://raw.githubusercontent.com/GitNicksWeb/status/master/assets/favicon.ico",
+    "slug": "wasapi",
     "status": "up",
     "uptime": "99.89%",
     "uptimeDay": "100.00%",

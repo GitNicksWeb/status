@@ -22,4 +22,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Website
       href: https://wasapi.com.br
+  allIncidentsUrl: /incidents
+  allIncidentsTitle: "All Incidents"
+  allStatusesUrl: /all-status
+  allStatusesTitle: "All Statuses"
 

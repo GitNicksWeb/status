@@ -16,6 +16,9 @@
 
 name: Response Time CI
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 23 * * *"
   repository_dispatch:

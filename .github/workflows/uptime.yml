@@ -20,7 +20,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
   repository_dispatch:
     types: [uptime]
   workflow_dispatch:

@@ -16,6 +16,9 @@
 
 name: Uptime CI
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "*/1 * * * *"
   repository_dispatch:
